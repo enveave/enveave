@@ -1,0 +1,51 @@
+.storyCard {
+    display: flex;
+    flex-direction: column;
+    background: rgba(248, 250, 212, 0.21);
+    border: 2px solid #81B541;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin: 40px;
+}
+
+.storyCard__box {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 30px;
+    justify-content: center;
+    width: min-content;
+}
+
+.storyCard__box__image {
+    align-self: center;
+}
+
+.storyCard__box>h4 {
+    margin-top: 20px;
+    font-weight: 500;
+    color: rgba(71, 150, 131, 1);
+    align-self: center;
+}
+
+.storyCard__box>p {
+    width: 65%;
+    font-weight: 400;
+    text-align: center;
+    line-height: 22px;
+    padding: 15px 0px;
+    align-self: center;
+}
+
+.storyCard__box>Button {
+    margin: 20px 0px;
+    padding: 5px 15px;
+    background-color: #FCB47B;
+    width: 75%;
+    align-self: center;
+}
+
+.storyCard__box>Button>span {
+font-weight: 600;
+font-size: 18px;
+color: white;
+}
