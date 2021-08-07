@@ -1,6 +1,5 @@
 <p align="center">
    <img src="https://github.com/SDOS-Winter2021/Team_8_Enveave/blob/Akash/docs/files/imgs/EnveaveLogo.png?raw=true" alt="" width="300" />   
-   <p align="center"><img src="https://img.shields.io/badge/MochaTests-Passed-brightgreen" /> <img src="https://img.shields.io/badge/Website-Deployed-green" />  <img src="https://img.shields.io/badge/License-MIT-blue.svg" /> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
 
 <h3 align="center">Enveave</h3>
    <p align="center">
